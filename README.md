@@ -14,7 +14,9 @@ An automated Python-based solution designed to generate **ZATCA Phase 1 (Fatoora
 * **Libraries:** `Pandas` (ETL), `FPDF` (PDF Generation), `Qrcode`, `Base64`
 
 ## 📸 Sample Output
-*(Yahan aap apne ek generated Invoice PDF ka screenshot laga sakte hain)*
+<img width="553" height="586" alt="image" src="https://github.com/user-attachments/assets/7761f95e-3cc0-4845-95fd-f26aa7296e9a" />
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/6538a91c-18e4-4bcd-91f4-c17f7b7e4a04" />
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/533c467c-206c-4f3d-bca2-aa5e4b6a7d49" />
 
 ---
 *Developed by Mustansar - Open for Data Analyst roles in Riyadh.*
